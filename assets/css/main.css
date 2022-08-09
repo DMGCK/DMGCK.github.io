@@ -24,6 +24,15 @@
 	display: none;
 }
 
+.center-these {
+	display: flex;
+	justify-content: center;
+}
+
+.center-these a {
+	border: none;
+}
+
 html,
 body,
 div,
