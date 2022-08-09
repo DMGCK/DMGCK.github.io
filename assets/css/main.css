@@ -8,30 +8,7 @@
 */
 
 
-.parallax {
-	max-height: 16rem;
-	border-radius: 50%;
-	border: white 2px solid;
-}
 
-.dontshow {
-	display: none;
-}
-
-.none {
-	filter: opacity(.5);
-	width: 15vw;
-	display: none;
-}
-
-.center-these {
-	display: flex !important;
-	justify-content: center !important;
-}
-
-.center-these p a {
-	border: none !important;
-}
 
 html,
 body,
@@ -4332,4 +4309,30 @@ body.is-preload #banner p {
 		padding: 2em 1.5em 0.1em 1.5em;
 	}
 
+}
+
+
+.parallax {
+	max-height: 16rem;
+	border-radius: 50%;
+	border: white 2px solid;
+}
+
+.dontshow {
+	display: none;
+}
+
+.none {
+	filter: opacity(.5);
+	width: 15vw;
+	display: none;
+}
+
+.center-these {
+	display: flex !important;
+	justify-content: center !important;
+}
+
+.center-these p a {
+	border: none !important;
 }
