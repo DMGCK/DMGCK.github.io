@@ -18,6 +18,12 @@
 	display: none;
 }
 
+.none {
+	filter: opacity(.5);
+	width: 15vw;
+	display: none;
+}
+
 html,
 body,
 div,
